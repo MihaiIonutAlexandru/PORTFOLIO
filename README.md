@@ -9,3 +9,5 @@ With over a decade of experience in the industrial field, I have accumulated dis
 Pursuing a role as a Quality Assurance Engineer / Software Tester, I offer a disciplined work ethic, teamwork appreciation, and newly acquired skills from a QA Engineer course. My goal is to get a job in a reputed company where I can use my skills and knowledge to deliver good results in the long term. I am enthusiastic about applying my previous interpersonal and newly acquired skills within a forward-thinking company to scale up the organization's production and growth rate and at the same time for my personal career growth as well.
 
 I have completed the QA Manual Engineer course at the IT school GoIT and got relevant knowledge. I know how to work with testing documentation such as: test-plan, test-strategy, test-case, bug-reports and other kinds of documentation. I have experience in Jira, Trello, Postman, Testrail, Dbeaver and SQL. I have tested some web-applications and taken part in a successful cross functional team project.</p>
+
+### <p align="center"><a href="https://www.linkedin.com/in/ionut-alexandru-mihai/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
